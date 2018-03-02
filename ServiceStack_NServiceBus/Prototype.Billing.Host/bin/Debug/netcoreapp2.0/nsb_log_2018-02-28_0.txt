@@ -1,0 +1,54 @@
+﻿2018-02-28 11:35:19.742 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 11:35:19.951 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 11:46:03.462 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 11:46:03.638 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 11:47:40.701 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 11:47:40.899 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 11:53:35.653 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 11:53:35.798 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 11:56:41.882 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 11:56:42.054 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 12:02:35.755 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 12:02:35.921 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 12:03:22.719 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 12:03:22.916 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 16:32:14.505 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 16:32:14.719 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 16:32:55.288 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 16:32:55.439 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 16:36:14.030 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 16:36:14.182 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 16:36:56.182 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 16:36:56.348 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 16:41:26.862 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 16:41:27.053 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 16:43:35.375 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 16:43:35.540 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 16:45:48.801 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 16:45:48.959 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 16:49:48.403 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 16:49:48.557 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 16:56:29.508 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 16:56:29.693 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 16:56:43.806 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 16:56:43.954 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
+2018-02-28 16:56:56.884 INFO  DefaultFactory Logging to 'C:\Vijay\ProtoTypes\nServiceBus\NServiceBus_ServiceStack\NServiceBus_ServiceStack\Prototype.Billing.Host\bin\Debug\netcoreapp2.0\' with level Info
+2018-02-28 16:56:57.031 INFO  NServiceBus.LicenseManager No valid license could be found. Falling back to trial license with start date '2018-02-20'.
+
